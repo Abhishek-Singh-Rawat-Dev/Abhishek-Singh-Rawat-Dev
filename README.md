@@ -10,7 +10,7 @@
 
 ### 🌍 About Me
 
-I’m a Second-year B.Tech student from India, diving into everything tech-related—from crafting sleek web apps to wrestling with data structures. Fueled by curiosity and a zest for learning (not by coffee), I love turning bright ideas into reality, one project at a time!
+I’m a fourth-year B.Tech student from India, diving into everything tech-related—from crafting sleek web apps to wrestling with data structures. Fueled by curiosity and a zest for learning (not by coffee), I love turning bright ideas into reality, one project at a time!
 
 - 🔭 Currently on a journey to master the **C++ Developer**.
 - 🧠 Passionate about **AI, ML**, and all things that make tech smarter.
